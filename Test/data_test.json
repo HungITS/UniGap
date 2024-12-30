@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2022-01-01"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "department": "Sales",
+        "salary": 60000,
+        "join_date": "2021-05-15"
+    },
+    {
+        "id": 3,
+        "name": "Mark Johnson",
+        "department": "Finance",
+        "salary": 75000,
+        "join_date": "2023-02-28"
+    }
+]
